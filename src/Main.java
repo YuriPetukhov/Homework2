@@ -42,9 +42,9 @@ public class Main {
     public static void task3 () {
         System.out.println("Задача 3");
 
-        var dog = 8.0;
-        var cat = 3.6;
-        var paper = 763789;
+        var dog = 12.0;
+        var cat = 7.6;
+        var paper = 763793;
 
         dog = dog - 3.5;
         cat = cat - 1.6;
